@@ -3,7 +3,7 @@
 ctrl+y to accept autocomplete\
 ctrl+w w to cycle windows\
 :Ex for file explorer\
-:vs for vertical split\
+:vs for vertical split
 
 ## Links
 - https://github.com/neoclide/coc.nvim
